@@ -1,6 +1,8 @@
-# PatientVLM Meets DocVLM: Pre-Consultation Dialogue Between Vision-Language Models for Efficient Diagnosis
+# Implementation of our AAAI (Main Track) Paper: PatientVLM Meets DocVLM: Pre-Consultation Dialogue Between Vision-Language Models for Efficient Diagnosis
 
-[![AAAI 2026](https://img.shields.io/badge/AAAI-2026-blue.svg)](https://aaai.org/conference/aaai/aaai-26/)
+[![AAAI 2026](https://img.shields.io/badge/AAAI-2026-blue.svg)](https://aaai.org/conference/aaai/aaai-26/) [![HF Model](https://img.shields.io/badge/🤗%20Hugging%20Face-Model-yellow)](https://huggingface.co/vl2g/PCDF_Qwen_2.5-VL-7B-Instruct-DermaMNIST) [![HF Dataset](https://img.shields.io/badge/🤗%20HuggingFace-Dataset-blue)](https://huggingface.co/datasets/vl2g/PCDF_DermaMNIST) [![arXiv](https://img.shields.io/badge/arXiv-2601.10945-b31b1b.svg)](http://arxiv.org/abs/2601.10945)
+
+
 
 A novel framework that simulates pre-consultation dialogues between two Vision-Language Models (VLMs) - PatientVLM and DocVLM - to enhance medical diagnosis efficiency. This work was presented at AAAI 2026.
 
@@ -12,9 +14,7 @@ A novel framework that simulates pre-consultation dialogues between two Vision-L
 - [Data Preparation](#data-preparation)
 - [Pre-Consultation Dialogue Generation](#pre-consultation-dialogue-generation)
 - [DocVLM Inference and Evaluation](#docvlm-inference-and-evaluation)
-- [Prerequisites](#prerequisites)
 - [Citation](#citation)
-- [Contact](#contact)
 
 ---
 
